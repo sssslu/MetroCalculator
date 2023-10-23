@@ -1,0 +1,9 @@
+C:\Users\yhsyl\Desktop\pj\WORLDCUP\MetroCalculator\bin\Debug\MetroCalculator.exe
+C:\Users\yhsyl\Desktop\pj\WORLDCUP\MetroCalculator\bin\Debug\MetroCalculator.pdb
+C:\Users\yhsyl\Desktop\pj\WORLDCUP\MetroCalculator\obj\Debug\MetroCalculator.csproj.AssemblyReference.cache
+C:\Users\yhsyl\Desktop\pj\WORLDCUP\MetroCalculator\obj\Debug\MetroCalculator.f1.resources
+C:\Users\yhsyl\Desktop\pj\WORLDCUP\MetroCalculator\obj\Debug\MetroCalculator.Properties.Resources.resources
+C:\Users\yhsyl\Desktop\pj\WORLDCUP\MetroCalculator\obj\Debug\MetroCalculator.csproj.GenerateResource.cache
+C:\Users\yhsyl\Desktop\pj\WORLDCUP\MetroCalculator\obj\Debug\MetroCalculator.csproj.CoreCompileInputs.cache
+C:\Users\yhsyl\Desktop\pj\WORLDCUP\MetroCalculator\obj\Debug\MetroCalculator.exe
+C:\Users\yhsyl\Desktop\pj\WORLDCUP\MetroCalculator\obj\Debug\MetroCalculator.pdb

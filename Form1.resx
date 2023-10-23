@@ -1,0 +1,197 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        AAABAAEAICAAAAEAIACoEAAAFgAAACgAAAAgAAAAQAAAAAEAIAAAAAAAABAAAMMOAADDDgAAAAAAAAAA
+        AAAAAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAB
+        Af8AAwP/AAQE/wAEBf8ABAT/AAMD/wABAf8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAA
+        AP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAC
+        Av8AAgP/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wACA/8AAQH/AAAA/wAAAP8AAAD/AAAA/wAA
+        AP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAB
+        Af8AAgL/AAAA/wAAAP8ABwf/ADM2/wBRVv8AX2T/AFtf/wBDR/8AERL/AAAA/wAAAP8AAgL/AAAA/wAA
+        AP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAA
+        AP8AAQH/AAAA/wAAAP8AKy3/AIuS/wDO2P8A5vL/APf//wD+//8A/P//AO77/wDX3v8Aio7/ABga/wAA
+        AP8AAQH/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAA
+        AP8AAAD/AAEB/wAAAP8ACgv/AIaM/wDy/P8A/f//APf//wD3//8A+f//APr//wD6//8A9///APX//wD/
+        //8A1t3/ACwv/wAAAP8AAgL/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAA
+        AP8AAAD/AAAA/wACAv8AAQH/AA4P/wCzuv8A////AO/8/wD1//8A////AOj0/wDM1/8AwMv/AMTO/wDg
+        7P8A/f//AO37/wD+//8Aztj/ABUW/wABAf8AAgL/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAA
+        AP8AAAD/AAAA/wAAAP8AAAD/AAIC/wAAAP8Aj5j/AP///wDq9/8A/f//ANHc/wBxeP8ANDf/AA0O/wAA
+        AP8AAgL/ACkr/wCDiv8A9P//AO37/wD///8AcHb/AAAA/wACA/8AAAD/AAAA/wAAAP8AAAD/AAAA/wAA
+        AP8AAAD/AAAA/wAAAP8AAAD/AAAA/wADA/8AAAD/AE1R/wD6//8A7fn/AP7//wCmrf8AFRb/AAAA/wAA
+        AP8AAAD/AAEB/wABAf8AAAD/AAAA/wCRmv8A+///APj+/wC4wv8AAQH/AAAA/wAAAP8AAAD/AAAA/wAA
+        AP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAgL/AAEB/wAYGv8AzNf/APX9/wD2/f8AytL/AAsM/wAA
+        AP8ABAT/AAMD/wABAf8AAAD/AAEB/wAFBf8AAgL/AE5S/wD///8A9f//AM7Z/wACAv8AAAD/AAAA/wAA
+        AP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wADA/8AAAD/ADAz/wDy//8A/v//APb//wA5
+        Pf8AAAD/AAME/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAIC/wABAf8Aam//AP3//wD3//8Avcf/AAAA/wAA
+        AP8AAAD/AAEB/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wACAv8ABQb/AHh+/wDZ
+        3v8AbXP/AAAA/wACAv8AAAD/AAAA/wAAAP8AAAD/AAAA/wACAv8AAwP/AAAA/wC4w/8A+P//AP7//wCP
+        lv8AAAD/AAEC/wAAAP8AAQH/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAA
+        AP8AAAD/AAAA/wAAAP8AAQH/AAAA/wAAAP8AAAD/AAAA/wACAv8ABQX/AAAA/wAAAP8AZ23/APj+/wDv
+        /f8A9/3/AEdL/wAAAP8AAwP/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAA
+        AP8AAAD/AAAA/wACAv8AAQH/AAIC/wAAAP8AAQH/AAMD/wACAv8AAAD/AAAA/wAAAP8ADA3/AG91/wD1
+        +/8A7/n/AP7//wC6xf8ABwf/AAEB/wABAf8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAA
+        AP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAIC/wAAAP8AAAD/AAAA/wADBP8ANzr/AHd+/wDE
+        zP8A+///APD9/wD4//8A5e7/ACst/wAAAP8AAgL/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAA
+        AP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wACAv8AAAD/AAAA/wA+Qf8Ai5H/ANHc/wDt
+        +P8A/f//APn//wDw/f8A////AODq/wBARf8AAAD/AAIC/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAA
+        AP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAwP/AAAA/wAwNP8Asrz/APf//wD+
+        //8A9f//APT//wD6//8A/f//APD8/wCrsP8AJSj/AAAA/wADA/8AAAD/AAAA/wAAAP8AAAD/AAAA/wAA
+        AP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAEB/wAAAP8AU1j/AOjv/wD+
+        //8A7/z/APf//wD///8A7fr/AMDI/wCIj/8ANjj/AAAA/wAAAP8AAgL/AAAA/wAAAP8AAAD/AAAA/wAA
+        AP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wACAv8AAAD/ADY5/wDw
+        +v8A9v//APH8/wD5//8Av8r/AGxw/wAwM/8ACAj/AAAA/wAAAP8AAAD/AAIC/wAAAP8AAQH/AAAA/wAA
+        AP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAQH/AAAA/wAG
+        Bv8AyNP/APn//wDy/P8A6e//AGNo/wAAAP8AAAD/AAAA/wAAAP8ABAT/AAIC/wAAAP8AAAD/AAIC/wAA
+        AP8AAgL/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAC
+        Av8AAAD/AE1R/wD5//8A7/z/APj8/wBWW/8AAAD/AAIC/wADA/8AAwP/AAEB/wAAAP8AAAD/AAAA/wAA
+        AP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAA
+        AP8AAAD/AAME/wAAAP8AfIL/APn+/wD7//8As73/AAEB/wADA/8AAQH/AAAA/wAAAP8AAAD/AAAA/wAB
+        Af8AAQH/AAgJ/wB7gv8Ara//AEBE/wAAAP8AAQH/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAA
+        AP8AAAD/AAAA/wAAAP8AAwT/AAAA/wB/hv8A+f7/APv//wCzvf8AAAD/AAIC/wABAf8AAAD/AAAA/wAA
+        AP8AAAD/AAMD/wABAf8AQUT/AP///wD///8Axc//AAEB/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAA
+        AP8AAAD/AAAA/wAAAP8AAAD/AAAA/wACAv8AAAD/AEJG/wD3//8A8P3/APP6/wBSWP8AAAD/AAUF/wAB
+        Af8AAQH/AAEB/wABAv8ABgb/AAAA/wA+Qf8A/v3/APD7/wDX4v8AAwP/AAAA/wAAAP8AAAD/AAAA/wAA
+        AP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAEB/wABAf8ABwf/AMTP/wD6//8A8/3/AOvz/wBN
+        Uf8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AEhP/AJef/wD6//8A8v3/AOf0/wAHB/8AAAD/AAAA/wAA
+        AP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAIC/wAAAP8APED/AO30/wD1
+        /v8A8/3/AO73/wB1e/8AExT/AAkK/wAODv8ALC7/AHV8/wDP1/8A+v//AO37/wD///8AtL7/AAIC/wAB
+        Af8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAIC/wAA
+        AP8AS1D/AO/1/wD4//8A7/z/APz//wDh7f8Aztn/AN/r/wDy/v8A+f//APf//wDx/v8A////AL7I/wAa
+        HP8AAQH/AAIC/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAA
+        AP8AAAD/AAMD/wAAAP8ARkv/AN/o/wD///8A8v//APP//wD2//8A8///APL//wD4//8A////AOz1/wCV
+        m/8ADg//AAAA/wABAf8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAA
+        AP8AAAD/AAAA/wAAAP8AAAD/AAMD/wAAAP8AIiT/AJCY/wDj7v8A/f//APn//wD8//8A8f7/AMbR/wCK
+        kv8ANDf/AAAA/wAAAP8AAQH/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAA
+        AP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAIC/wAAAP8AAAD/AB0f/wA9P/8ASk7/ADs+/wAj
+        Jf8ADg7/AAAA/wAAAP8AAgL/AAEB/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAA
+        AP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAIC/wACAv8AAAD/AAAA/wAA
+        AP8AAAD/AAAA/wAAAP8AAwP/AAIC/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAA
+        AP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAC
+        Av8AAgL/AAIC/wACAv8AAgL/AAEB/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAA
+        AP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAA
+        AP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAA
+        AP8AAAD/AAAA/wAAAP8AAAD/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=
+</value>
+  </data>
+</root>
