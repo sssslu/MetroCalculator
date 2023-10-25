@@ -7,3 +7,7 @@ C:\Users\yhsyl\Desktop\pj\WORLDCUP\MetroCalculator\obj\Debug\MetroCalculator.csp
 C:\Users\yhsyl\Desktop\pj\WORLDCUP\MetroCalculator\obj\Debug\MetroCalculator.csproj.CoreCompileInputs.cache
 C:\Users\yhsyl\Desktop\pj\WORLDCUP\MetroCalculator\obj\Debug\MetroCalculator.exe
 C:\Users\yhsyl\Desktop\pj\WORLDCUP\MetroCalculator\obj\Debug\MetroCalculator.pdb
+C:\Users\yhsyl\Desktop\pj\WORLDCUP\MetroCalculator\bin\Debug\MetroFramework.Design.dll
+C:\Users\yhsyl\Desktop\pj\WORLDCUP\MetroCalculator\bin\Debug\MetroFramework.dll
+C:\Users\yhsyl\Desktop\pj\WORLDCUP\MetroCalculator\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\yhsyl\Desktop\pj\WORLDCUP\MetroCalculator\obj\Debug\MetroCalculator.csproj.CopyComplete

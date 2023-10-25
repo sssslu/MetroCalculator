@@ -1,0 +1,13 @@
+C:\Users\yhsyl\Desktop\pj\WORLDCUP\MetroCalculator\bin\Release\MetroCalculator.exe
+C:\Users\yhsyl\Desktop\pj\WORLDCUP\MetroCalculator\bin\Release\MetroCalculator.pdb
+C:\Users\yhsyl\Desktop\pj\WORLDCUP\MetroCalculator\bin\Release\MetroFramework.Design.dll
+C:\Users\yhsyl\Desktop\pj\WORLDCUP\MetroCalculator\bin\Release\MetroFramework.dll
+C:\Users\yhsyl\Desktop\pj\WORLDCUP\MetroCalculator\bin\Release\MetroFramework.Fonts.dll
+C:\Users\yhsyl\Desktop\pj\WORLDCUP\MetroCalculator\obj\Release\MetroCalculator.csproj.AssemblyReference.cache
+C:\Users\yhsyl\Desktop\pj\WORLDCUP\MetroCalculator\obj\Release\MetroCalculator.f1.resources
+C:\Users\yhsyl\Desktop\pj\WORLDCUP\MetroCalculator\obj\Release\MetroCalculator.Properties.Resources.resources
+C:\Users\yhsyl\Desktop\pj\WORLDCUP\MetroCalculator\obj\Release\MetroCalculator.csproj.GenerateResource.cache
+C:\Users\yhsyl\Desktop\pj\WORLDCUP\MetroCalculator\obj\Release\MetroCalculator.csproj.CoreCompileInputs.cache
+C:\Users\yhsyl\Desktop\pj\WORLDCUP\MetroCalculator\obj\Release\MetroCalculator.csproj.CopyComplete
+C:\Users\yhsyl\Desktop\pj\WORLDCUP\MetroCalculator\obj\Release\MetroCalculator.exe
+C:\Users\yhsyl\Desktop\pj\WORLDCUP\MetroCalculator\obj\Release\MetroCalculator.pdb
